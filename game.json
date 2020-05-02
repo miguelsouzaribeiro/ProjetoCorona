@@ -14,7 +14,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "/home/miguel/Documentos/GDevelop projects/My project5/game.json",
+    "projectFile": "/home/miguel/Documentos/GDevelop projects/ProjetoCorona/game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -831,7 +831,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.0833,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -1443,7 +1443,7 @@
         },
         {
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
